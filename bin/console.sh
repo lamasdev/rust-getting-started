@@ -1,1 +1,1 @@
-docker-compose -f docker/docker-compose.yml run rust-console sh
+docker-compose -f docker/docker-compose.yml -p rust run --name rust --rm rust-console sh
