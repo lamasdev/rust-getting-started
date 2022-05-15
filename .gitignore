@@ -1,1 +1,3 @@
 src/**/target
+src/**/.vscode
+!src/app-001-hello-world/.vscode
